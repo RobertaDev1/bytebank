@@ -1,4 +1,5 @@
-![Typescript: orientação a objetos](https://imgur.com/9399vxd.png)
+
+![Captura de tela 2024-08-18 190807](https://github.com/user-attachments/assets/ec04e643-35e5-4680-a4f6-a8a3bbb048e1)
 
 # Typescript: orientação a objetos
 
